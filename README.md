@@ -1,4 +1,4 @@
-# EuvsVirus_EpiTeam
+# TRUEDIP: TRUsted decentralized Eldercare DurIng a Pandemic
 EUvsVirus Hackathon - EPI Team
 
 Step: 
