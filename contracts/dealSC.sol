@@ -4,8 +4,8 @@ contract dealSC{
     address[16] public dealers;
 
     //Like a candidate 
-    function deal(init candidateID) public returns (init) {
-        require(candidateID) >=0 && candidateID <=100);
+    function deal(uint candidateID) public returns (uint) {
+        require(candidateID >=0 && candidateID <=100);
 
         dealers[candidateID] = msg.sender;
         
